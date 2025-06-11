@@ -14,7 +14,8 @@ An end-to-end fraud detection pipeline using PySpark, built as a minimum viable 
 
 ## ⚙️ Architecture
 
-![Architecture Diagram](architecture.png)
+![image](https://github.com/user-attachments/assets/66e6b1d7-7fc4-4c72-ab32-f579fc489c61)
+
 
 **Pipeline Stages:**
 1. **Raw Data** – Ingest transactional logs from source systems.
